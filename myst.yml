@@ -12,6 +12,8 @@ project:
     - file: modules/01_introduction.md
     - file: modules/02_data_mounts.md
     - file: modules/03_adding_storage_mount.md
+    - file: modules/04_working_with_mounted_data.md
+    - file: module/05_read_only_read_write.md
 
   # In-page execution (the "power" button at the top of the page) using Thebe
   jupyter:
