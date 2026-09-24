@@ -7,10 +7,6 @@ project:
   authors:
     - name: Aleksandra Pawlik
       orcid: https://orcid.org/0000-0001-8418-6735
-   exports:
-    - format: pdf
-      template: plain_latex_book
-      output: learn-mount-data-on-Jupyter4NFDI.pdf
 
   toc:
     - file: modules/01_introduction.md
